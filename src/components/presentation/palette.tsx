@@ -22,14 +22,13 @@ const achievements = [
     description: "Awarded for successfully clearing the Wings1 Exam and excellence in performance.",
     moreDetails:
       "The Elevate Wings Award recognizes exceptional performance and commitment to professional growth. It reflects excellence in clearing challenging certification exams and deploying advanced industry practices.",
-    img: "award.png", // Replace with your actual image path
+    img: "rocket.webp", // Replace with your actual image path
   },
   {
-    title: "Udemy  Certificate of Completion",
-    description: "Awarded for successfully clearing the Wings1 Exam and excellence in performance.",
-    moreDetails:
-      "The Elevate Wings Award recognizes exceptional performance and commitment to professional growth. It reflects excellence in clearing challenging certification exams and deploying advanced industry practices.",
-    img: "award.png", // Replace with your actual image path
+    title: "Udemy Course for Azure Administrator (AZ-104)",
+    description: "AZ-104 Azure Administrator Training",
+    moreDetails: "Completed in-depth Udemy training for Microsoft Azure Administrator (AZ-104), covering core services, identity, governance, and infrastructure management across cloud environments. Strengthened practical skills in managing Azure resources, virtual networks, and secure workloads.",  
+    img: "az104.png", // Replace with your actual image path
   }
 ];
 
