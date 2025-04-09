@@ -8,65 +8,42 @@ import ThemeProvider from "../theme-provider";
 const timelineEvents = [
   {
     title: "May 2021",
-    cardTitle: "Joined TCS as DevOps Engineer",
+    cardTitle: "Joined TCS as Ignite Trainee",
     cardDetailedText:
-      "Started my journey at Tata Consultancy Services, focusing on building scalable and secure cloud solutions.",
+      "Started my career journey with Tata Consultancy Services under the Ignite program, building strong foundations in DevOps and cloud technologies.",
   },
   {
-    title: "Milestone 1",
-    cardTitle: "Ansible Automation for Apigee",
+    title: "Aug 2021",
+    cardTitle: "Assigned to Financial Services Project",
     cardDetailedText:
-      "Developed and implemented a dynamic Ansible automation script across dev, test, and prod for Apigee platform services—reducing deployment time by 94% and cutting manual intervention by 75%.",
+      "Onboarded to a project for a Finland-based financial group as a DevOps Engineer, driving automation and infrastructure reliability across cloud-native environments.",
   },
   {
-    title: "Milestone 2",
-    cardTitle: "AWS OS Security Patching",
+    title: "Feb 2022",
+    cardTitle: "AWS Cloud Practitioner Certified",
     cardDetailedText:
-      "Engineered and deployed a robust automation solution for OS security patching on AWS EC2, reducing monthly patching time by over 70% and manual intervention by 90%.",
+      "Earned AWS Cloud Practitioner certification, validating my cloud fluency and enabling better architecture and automation decisions in AWS-based projects.",
   },
   {
-    title: "Milestone 3",
-    cardTitle: "OpenShift LDAPS Migration",
+    title: "Nov 2022",
+    cardTitle: "Cracked TCS Digital Cadre",
     cardDetailedText:
-      "Migrated the OpenShift Container Platform's authentication from standard LDAP to secure LDAPS, ensuring zero downtime and compliance with enterprise policies.",
+      "Cleared TCS Wings1 Exam to enter the Digital cadre, recognized for advanced technical capability and contribution to high-value digital transformation initiatives.",
   },
   {
-    title: "Milestone 4",
-    cardTitle: "Custom Ansible Module Development",
+    title: "May 2024",
+    cardTitle: "Completed 3 Years at TCS",
     cardDetailedText:
-      "Developed a custom Ansible module in Python to extend Apigee operations, enabling seamless automation of platform-specific tasks.",
+      "Marked 3 successful years at TCS, contributing to critical DevOps initiatives across cloud, automation, and platform engineering.",
   },
   {
-    title: "Milestone 5",
-    cardTitle: "Automated Qpid DLQ Recovery",
+    title: "Jun 2024",
+    cardTitle: "Microsoft Azure Fundamentals Certified",
     cardDetailedText:
-      "Automated Qpid DLQ message recovery using a Python script with Base64-encoded credentials, replacing manual monitoring with a cron-driven self-healing process.",
-  },
-  {
-    title: "Milestone 6",
-    cardTitle: "Dynatrace Dashboard Implementation",
-    cardDetailedText:
-      "Designed and implemented custom Dynatrace dashboards and alerting rules to monitor OpenShift clusters—improving real-time visibility and proactive incident response.",
-  },
-  {
-    title: "Milestone 7",
-    cardTitle: "SSL/TLS Certificate Renewals",
-    cardDetailedText:
-      "Performed SSL/TLS certificate renewals across OpenShift, Kafka, and Apigee platforms, ensuring secure communication and compliance with minimal downtime.",
-  },
-  {
-    title: "Milestone 8",
-    cardTitle: "OCP Cluster Upgrade",
-    cardDetailedText:
-      "Led the upgrade of the OpenShift Container Platform from version 4.10 to 4.12, handling pre-upgrade validation, operator health checks, and post-upgrade monitoring.",
-  },
-  {
-    title: "Milestone 9",
-    cardTitle: "Kafka Certificate Chain Renewal",
-    cardDetailedText:
-      "Automated the SSL certificate chain renewal and keystore management across multi-node Kafka clusters using Ansible, ensuring a smooth migration from Entrust CA.",
-  },
-];
+      "Achieved AZ-900 certification, strengthening multi-cloud proficiency and supporting secure, scalable solutions on Azure.",
+  }
+]
+;
 
 export function ExperienceTimeline() {
   return (
