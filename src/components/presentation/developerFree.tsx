@@ -79,6 +79,17 @@ export function DevPresentation() {
               <Typography color="blue-gray" className="mb-4 dark:text-white text-justify">
                 The pipeline integrated polling mechanisms for source code changes, proper secret management, and automated testing, making it a comprehensive solution for continuous delivery. This project was a fantastic journey in optimizing the development lifecycle and deployment consistency.
               </Typography>
+              <Typography color="blue-gray dark:text-white">
+                <strong>Github:</strong>{" "}
+                <a
+                  className="text-blue-600 hover:underline"
+                  href="https://github.com/chinmaykul-1/whiskerwagg-backend"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View on Github
+                </a>
+              </Typography>
             </div>
           </div>
         </div>

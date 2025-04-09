@@ -45,7 +45,7 @@ export function HeroSectionTwo() {
           {/* Right Side Image */}
           <div className="hidden lg:flex">
             <img
-              src="MyIMG2.jpg"
+              src="about.jpg"
               alt="Chinmay DevOps"
               className="max-w-md rounded-3xl ml-auto"
             />
