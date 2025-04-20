@@ -5,7 +5,7 @@ export function LogoSectionOne() {
     /* From Uiverse.io by nathAd17 with modifications for Instagram-like gradient effect */
     <a
       className="py-4 px-4"
-      href="https://drive.google.com/file/d/1i3i7YzuZUzIrdHALMIsvXW5Eolp8H0n3/view"
+      href="https://docs.google.com/document/d/1wIkpy9f_WrWM3TdTPSy9pShHFWvvYm5HL5vodYclpwo/edit?usp=drive_link"
       target="_blank"
       rel="noopener noreferrer"
     >
